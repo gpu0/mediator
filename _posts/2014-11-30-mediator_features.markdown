@@ -31,6 +31,8 @@ Examples for different formats and css features
 
 #Links
 This is an [example link](http://example.com/ "With a Title").
+New Link 
+<script src="https://gist.github.com/adityaatluri/dcd9adf207cd7da295ed11df36c9e73d.js"></script>
 
 #Combinations
 >Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
