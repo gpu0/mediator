@@ -4,7 +4,7 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "gpu0"
+title: "Aditya Atluri"
 description: > # this means to ignore newlines until "email:"
    Blog about GPUs.
 
